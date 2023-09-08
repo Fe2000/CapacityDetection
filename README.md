@@ -1,2 +1,2 @@
 # CapacityDetection
-Using deep learning to detect how much milk is left
+Using deep learning to detect how much in a container is left
